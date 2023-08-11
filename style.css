@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0;
+    font-family: 'Tektur', cursive;
+}
+.note{
+    font-size: 15px;
+    color:rgb(59, 125, 125);
+}
+.speed{
+    float:left;
+    margin-left: 20px;
+}
+.speed img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    color:white ;
+    font-family: 'Tektur', cursive;
+    font-weight: bolder;
+    margin: 15px;
+}
+.sound{
+    float:right;
+    margin-right: 10px;
+}
+.sound img{
+    width: 200px;
+    border-radius: 100px;
+}
+#sound{
+    color:white ;
+    font-family: 'Tektur', cursive;
+    font-weight: bolder;
+    margin: 15px;
+}
+canvas{
+    border: 5px dotted white;
+    border-radius: 20px;
+}
